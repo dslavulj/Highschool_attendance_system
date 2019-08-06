@@ -30,7 +30,7 @@ In addition there is a class selection (if browsing for your subject) or a subje
 Next is student selection.
 After that there are 2 boxes for entering the date. One is for the start date, the other for the end date. The default gives us an insight into the past 14 days.
 If we are interested in all arrivals / absence, we will remove the date "from" by pressing the "X" at the date.
-To the right in the filter section there is a "Filter" button, which when clicked, will display the data that we have selected in the filter.
+To the right in the filter section there is a "Filter" button, which when clicked, will display the filtered information.
 Below the filter is a table consisting of 6 columns: date, student, school hour, subject, classroom and action.
 The first line contains blank fields that serve to add a new arrival. In order to enter the data it is necessary to fill in the fields and press the button to confirm.
 After that, the user is taken to a page where they are notified whether or not a new arrival has been added.

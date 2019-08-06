@@ -5,9 +5,9 @@ The layout is very simple. One box in the middle of the page containing the "Log
 At the bottom of that box is a login button.
 If the username is not in the database, or the password is incorrect, the user will not successfully login, and will receive a specific error.
 If the information is correct, the system recognizes whether it is a student or a teacher and sends it to the main page.
-<br><br>
+<br><br><br>
 Student
-<br>
+<br><br>
 The student can view attendance only for themselves.
 At the top left is "Welcome" and the student's name. On the same level to the right is the "Logout" button.
 By clicking on it, the user is no longer able to access the data without logging in again. Also, by clicking the logout button, the user returns to the login page.
@@ -18,9 +18,9 @@ If we are interested in all arrivals / absence, we will remove the date "from" b
 To the right of the filter section is a "Filter" button, which when clicked, will display the filtered information.
 Below the filter is a table that lists arrivals or absence, depending on the selection.
 The table contains 4 columns: date, school hour, subject and classroom. The data is sorted so that the most recent date is at the top.
-<br><br>
+<br><br><br>
 Teacher
-<br>
+<br><br>
 The teacher can view the arrivals and absence for the subject he/she is teaching or the class where he/she is head teacher, and add and delete the arrivals.
 At the top left is "Welcome" and the teacher's name. On the same level to the right is the "Logout" button.
 By clicking on it, the user is no longer able to access the data without logging in again. Also, by clicking the logout button, the user returns to the login page.

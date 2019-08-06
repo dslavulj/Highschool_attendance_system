@@ -36,4 +36,4 @@ The first line contains blank fields that serve to add a new arrival. In order t
 After that, the user is taken to a page where they are notified whether or not a new arrival has been added.
 It is not possible to create a new arrival for a non-teaching date, nor in the future and it is not possible to add an arrival for a non-existent student or a non-existent subject.
 The data is sorted by date so that the most recent date is the highest in the table.
-In the table in the action column, for each arrival, there is a icon of the trash bin, which is used to delte the arrival.
+In the table in the action column, for each arrival, there is a icon of the trash bin, which is used to delete the arrival.

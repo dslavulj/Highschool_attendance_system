@@ -1,5 +1,5 @@
 Login page
-/n
+<br>
 The login page has a form that requires the user to enter username and password.
 The layout is very simple. One box in the middle of the page containing the "Login" heading. Below that is a username and password fields.
 At the bottom of that box is a login button.

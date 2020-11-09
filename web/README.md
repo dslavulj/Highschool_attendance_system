@@ -5,6 +5,7 @@ The layout is very simple. One box in the middle of the page containing the "Log
 At the bottom of that box is a login button.
 If the username is not in the database, or the password is incorrect, the user will not successfully login, and will receive a specific error.
 If the information is correct, the system recognizes whether it is a student or a teacher and sends it to the main page.
+![Image](../images/login.PNG)
 <br><br><br>
 Student
 <br><br>
@@ -18,6 +19,7 @@ If we are interested in all arrivals / absence, we will remove the date "from" b
 To the right of the filter section is a "Filter" button, which when clicked, will display the filtered information.
 Below the filter is a table that lists arrivals or absence, depending on the selection.
 The table contains 4 columns: date, school hour, subject and classroom. The data is sorted so that the most recent date is at the top.
+![Image](../images/ucenik.PNG)
 <br><br><br>
 Teacher
 <br><br>
@@ -37,3 +39,4 @@ After that, the user is taken to a page where they are notified whether or not a
 It is not possible to create a new arrival for a non-teaching date, nor in the future and it is not possible to add an arrival for a non-existent student or a non-existent subject.
 The data is sorted by date so that the most recent date is the highest in the table.
 In the table in the action column, for each arrival, there is a icon of the trash bin, which is used to delete the arrival.
+![Image](../images/ucitelj.PNG)
